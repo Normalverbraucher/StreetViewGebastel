@@ -1,6 +1,4 @@
-# StreetViewGebastel
-
-Verwendete Addons: 
+# Verwendete Addons
 
 [ofxStreetView](https://github.com/patriciogonzalezvivo/ofxStreetView)
 
